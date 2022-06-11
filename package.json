@@ -1,0 +1,61 @@
+{
+  "name": "@zee-ava/vue_components",
+  "version": "0.10.0",
+  "main": "dist/index.umd.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build --target lib --name index ./src/wrapper.js --mode production",
+    "lint": "vue-cli-service lint",
+    "prepare": "yarn build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/vue-fontawesome": "^0.1.9",
+    "@zxing/library": "^0.15.2",
+    "core-js": "^3.6.4",
+    "vue": "^2.6.11"
+  },
+  "peerDependencies": {
+    "@zee-ava/axia-wallet-sdk": "^0.17.2"
+  },
+  "devDependencies": {
+    "@zee-ava/axia-wallet-sdk": "0.17.2",
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-eslint": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "description": "A collection of Vue based components to be used across AVA frontend applications.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axia-js/vue_components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axia-js/vue_components/issues"
+  },
+  "homepage": "https://github.com/axia-js/vue_components#readme"
+}
