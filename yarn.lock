@@ -1922,7 +1922,7 @@
   dependencies:
     "@fortawesome/fontawesome-common-types" "^0.2.36"
 
-"@fortawesome/vue-fontawesome@^0.1.9":
+"@fortawesome/vue-fontawesome@^0.1.10":
   version "0.1.10"
   resolved "https://registry.yarnpkg.com/@fortawesome/vue-fontawesome/-/vue-fontawesome-0.1.10.tgz#eeeec1e4e8850bed0468f938292b06cda793bf34"
   integrity sha512-b2+SLF31h32LSepVcXe+BQ63yvbq5qmTCy4KfFogCYm2bn68H5sDWUnX+U7MBqnM2aeEk9M7xSoqGnu+wSdY6w==
@@ -2860,10 +2860,10 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
-"@zee-ava/avajs@^3.14.8":
-  version "3.14.8"
-  resolved "https://registry.yarnpkg.com/@zee-ava/avajs/-/avajs-3.14.8.tgz#b4bdf54039d3da1737f41c7760ac02ddf118d31a"
-  integrity sha512-bvJ3s30B9CNnRD1aAEap5MRmBxR5VmA9A7ZouxY2fhl1wozlv57tzFgtbUhhzUej58mhNgzApr0XVyypeQJdAg==
+"@zee-ava/avajs@^3.14.9":
+  version "3.14.9"
+  resolved "https://registry.yarnpkg.com/@zee-ava/avajs/-/avajs-3.14.9.tgz#ad3356a4381dd9e81d701d3163b890285ac3ffad"
+  integrity sha512-atXM7RZLW1zNiGct8Mzw/Y2C4YdjvtgChf1oYeN6PNGq+ecvuSlzFjwLnHWDvGeH/rmCyEq0EQsf3NrqiRSjTA==
   dependencies:
     assert "2.0.0"
     axios "0.27.2"
@@ -2882,10 +2882,10 @@
     ws "8.5.0"
     xss "1.0.11"
 
-"@zee-ava/axia-wallet-sdk@^0.17.9":
-  version "0.17.9"
-  resolved "https://registry.yarnpkg.com/@zee-ava/axia-wallet-sdk/-/axia-wallet-sdk-0.17.9.tgz#901f2e4fd12af25dabcd4c745040a4bfe64e11ba"
-  integrity sha512-JgZV66n7OBiOSiGOXx47H/Sm5xPMwFmPH+uoDGC7s4994IItj1Suy7RrrcdvClY8MhwBb2vj8QMhC/2isW3z1w==
+"@zee-ava/axia-wallet-sdk@^0.17.10":
+  version "0.17.10"
+  resolved "https://registry.yarnpkg.com/@zee-ava/axia-wallet-sdk/-/axia-wallet-sdk-0.17.10.tgz#14f2f9d3c7903fc39e523a19b517eaba9c480000"
+  integrity sha512-b880g0rGI8lrL13UDONKlOKHZAMnq/o8P2PUfX4J62ER5LHrK9C2pynu+e7GKYA+Y3OmIANHZiiWLl3bPWyjOQ==
   dependencies:
     "@ethereumjs/common" "2.6.0"
     "@ethereumjs/tx" "3.4.0"
