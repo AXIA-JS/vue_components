@@ -1,4 +1,4 @@
-# AVA Vue Components
+# AXIA Vue Components
 
 This project is composed of many directories which are individual node modules. Each of these modules is very small to 
 have their own git repo so they are bundled in this collective repo.
