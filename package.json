@@ -1,6 +1,6 @@
 {
   "name": "@zee-ava/vue_components",
-  "version": "0.10.8",
+  "version": "0.10.9",
   "main": "dist/index.umd.js",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -12,20 +12,20 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
     "@fortawesome/vue-fontawesome": "^0.1.10",
-    "@zee-ava/avajs": "^3.14.11",
+    "@zee-ava/avajs": "^3.14.12",
     "@zxing/library": "^0.15.2",
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },
   "peerDependencies": {
-    "@zee-ava/axia-wallet-sdk": "^0.17.12"
+    "@zee-ava/axia-wallet-sdk": "^0.17.13"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-eslint": "~4.2.0",
     "@vue/cli-service": "~4.2.0",
-    "@zee-ava/axia-wallet-sdk": "^0.17.12",
-    "@zee-ava/avajs": "^3.14.11",
+    "@zee-ava/axia-wallet-sdk": "^0.17.13",
+    "@zee-ava/avajs": "^3.14.12",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.1.2",
