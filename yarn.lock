@@ -2860,10 +2860,10 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
-"@zee-ava/avajs@^3.14.12":
-  version "3.14.12"
-  resolved "https://registry.yarnpkg.com/@zee-ava/avajs/-/avajs-3.14.12.tgz#0a1ae12a4cb211bdc86b9a04cc47337ed7945d23"
-  integrity sha512-pCP1q31dtIvnOMebe2dKH/5efRQs7591qNrZBH60X+3ZCgCUZ1Kuq5Jnm6W+7zSUlgMOm7DUEwU1id/ZgZYLkw==
+"@zee-ava/avajs@^3.14.15":
+  version "3.14.15"
+  resolved "https://registry.yarnpkg.com/@zee-ava/avajs/-/avajs-3.14.15.tgz#3e6004eae5be8d5df2b97603f8f35ab11c6ecdf5"
+  integrity sha512-B9lehZjIEK+hU0Th+ecViKeUi6J6hQBavVN5lEMtMCgnsPKAhmnZorMZE0EAmcvple7pBibmyPd97uHRCDLOlw==
   dependencies:
     assert "2.0.0"
     axios "0.27.2"
@@ -2882,10 +2882,10 @@
     ws "8.5.0"
     xss "1.0.11"
 
-"@zee-ava/axia-wallet-sdk@^0.17.13":
-  version "0.17.13"
-  resolved "https://registry.yarnpkg.com/@zee-ava/axia-wallet-sdk/-/axia-wallet-sdk-0.17.13.tgz#483eae7f884c6651e98696f895a31713c1b15121"
-  integrity sha512-CoDcIAYWEG24Yd2yMbTSgUvMaJNaqEUND8XbztlxdEvyrOCjtYUZ+nJJu+0fFXKJYNJHijddM5bkrqMbXr9HkA==
+"@zee-ava/axia-wallet-sdk@^0.17.17":
+  version "0.17.17"
+  resolved "https://registry.yarnpkg.com/@zee-ava/axia-wallet-sdk/-/axia-wallet-sdk-0.17.17.tgz#a89539d3127196c5839f94629b754ddccc92c475"
+  integrity sha512-ekS/uMxIWbawQfPnNjFlK5jNLjg95EtQ+4+v5DiWGwAhI/MGUgr9rXUfDIqPybHCvbK0PbpwwUDqceZHRE//SA==
   dependencies:
     "@ethereumjs/common" "2.6.0"
     "@ethereumjs/tx" "3.4.0"
